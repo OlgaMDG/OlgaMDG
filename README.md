@@ -1,13 +1,21 @@
 ### Hi there 👋
 
+I'm Olga ANDRIAMIHARISOA, a Front-End Developer & Designer focused on building clean, modern, and responsive websites.
 
+- 💻 I design and develop user-friendly interfaces
+- 🎯 I turn ideas and examples into fully functional websites
+- 📱 Specialized in responsive design (mobile & desktop)
+- 🚀 Open to freelance projects and collaborations
 
-I am Olga from SAYNA, It's the school for digital jobs.
+### 🔧 Technologies & Tools
+HTML | CSS | JavaScript | Responsive Design
 
-- 🌱 I’m currently learning and evolving my digital skills. 
-- 👯 I’m looking to collaborate on many project to see the methodelly of you.
-- 🤔 I’m looking for help with my learning.
-
-
-:point_right:	Who is SAYNA? https://sayna.space
+### 📌 Experience
+I have worked on multiple projects, including:
+- Website CFLC Madagascar
+- TV channel website
+- Travel agency website
+- Company portfolio website
+- Energy brokerage website
+- ...
 
